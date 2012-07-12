@@ -1,4 +1,4 @@
-20120712_FirstMeetup
-====================
+SyDjango's FirstMeetup
+======================
 
-Stuff from the first meetup.
+Presentations and code from the SyDjango's first meetup.
